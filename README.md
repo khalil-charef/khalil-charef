@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Title or Role] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Khalil Charef</h1>
+<h3 align="center">A passionate Data Scientist from Morocco</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
