@@ -21,6 +21,8 @@
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white.
+)
 
 **Frameworks & Libraries:**
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
