@@ -25,9 +25,9 @@
 
 ### 📊 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil-charef&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil-charef&layout=compact&theme=radical)
 
 ---
 
