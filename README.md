@@ -1,5 +1,8 @@
-# Hi there, I'm Khalil Charef 👋
-# A Data Scientist
+<div align="center">
+  # Hi there, I'm Khalil Charef 👋
+  # A Data Scientist
+</div>
+
 
 ---
 ## 🚀 About Me
@@ -114,16 +117,9 @@ Brief description of what this project does and the technologies used.
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourhandle)
 
 </div>
-
-## 💡 Quote
-
-> "The only way to do great work is to love what you do." - Steve Jobs
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
   **Thanks for visiting my profile! Have a great day! 😊**
 </div>
 
