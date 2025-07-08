@@ -1,6 +1,8 @@
 <div align="center">
-  # Hi there, I'm Khalil Charef 👋
-  # A Data Scientist
+  <h1>Hi there, I'm Khalil Charef 👋</h1>
+</div>
+<div align="center">
+  <h1>A Data Scientist</h1>
 </div>
 
 
